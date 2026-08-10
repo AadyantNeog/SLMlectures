@@ -819,7 +819,7 @@ The correct lifecycle objective might be
 $$
 \text{total cost}
 =
-\text{R&D cost}
+\text{R\&D cost}
 +
 \text{training cost}
 +

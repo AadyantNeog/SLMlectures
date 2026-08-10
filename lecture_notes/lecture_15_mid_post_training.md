@@ -500,7 +500,7 @@ Storing rubric-level annotations alongside the overall preference enables later 
 
 The annotation workforce has shifted toward higher education, higher skill, and higher cost, though one survey from a Scale AI platform is not representative of the entire industry. In that survey, roughly 70% of respondents had bachelor's or master's degrees, the modal age was around 35, and common work included creative and technical writing.
 
-Demand for domain-specific deployment has also created bespoke expert annotation. Companies want doctors, lawyers, scientists, and other professionals to write demonstrations and judge specialized answers. Median pay across several topics can exceed $50 per hour, while some experts receive more than $100 per hour. The old mental model of RLHF as only cheap overseas pairwise labeling is incomplete. Annotation now forms a pyramid that still includes large amounts of lower-paid scalable work beneath a smaller layer of expensive experts.
+Demand for domain-specific deployment has also created bespoke expert annotation. Companies want doctors, lawyers, scientists, and other professionals to write demonstrations and judge specialized answers. Median pay across several topics can exceed \$50 per hour, while some experts receive more than \$100 per hour. The old mental model of RLHF as only cheap overseas pairwise labeling is incomplete. Annotation now forms a pyramid that still includes large amounts of lower-paid scalable work beneath a smaller layer of expensive experts.
 
 High pay reflects real difficulty. Companies need to verify that annotators have the claimed expertise, produce correct work under time pressure, and are not quietly using a language model. Modern crowdsourcing and survey research are saturated with plausible AI-generated submissions, making human verification extremely difficult.
 
@@ -508,7 +508,7 @@ The lecturer recounts a Google Bard labor dispute in which workers said they had
 
 ### Source reconciliation
 
-The worker-distribution slide gives exact figures for one Outlier/Scale AI survey: **44% bachelor's**, **32% master's**, and **34% aged 35-44**. Thus the combined degree share shown is 76%, while the transcript rounds it to "70% some." A compensation slide cites Project Stargate/Handshake AI, describes 3,000-4,000 freelancers, and shows many specialist midpoints above $100 per hour. A separate ethics slide documents reports of Kenyan workers earning under $2 per hour, reinforcing the spoken bifurcation.
+The worker-distribution slide gives exact figures for one Outlier/Scale AI survey: **44% bachelor's**, **32% master's**, and **34% aged 35-44**. Thus the combined degree share shown is 76%, while the transcript rounds it to "70% some." A compensation slide cites Project Stargate/Handshake AI, describes 3,000-4,000 freelancers, and shows many specialist midpoints above \$100 per hour. A separate ethics slide documents reports of Kenyan workers earning under \$2 per hour, reinforcing the spoken bifurcation.
 
 ### Additional explanation
 

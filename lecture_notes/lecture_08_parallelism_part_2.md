@@ -64,11 +64,11 @@ The discussion stays at the algorithmic level of collective communication rather
 One identity is especially important:
 
 $$
-\operatorname{all\mbox{-}reduce}
+\text{all-reduce}
 \equiv
-\operatorname{reduce\mbox{-}scatter}
+\text{reduce-scatter}
 +
-\operatorname{all\mbox{-}gather}
+\text{all-gather}
 $$
 
 in the bandwidth-limited accounting used here. Later, an algorithm replaces one all-reduce with those two phases. Because their total communication cost is equivalent, the change can deliver memory savings without increasing the leading communication volume.
@@ -997,11 +997,11 @@ That framing makes parallelism an optimization problem with constraints rather t
 ## Collective identity
 
 $$
-\operatorname{all\mbox{-}reduce}
+\text{all-reduce}
 \equiv
-\operatorname{reduce\mbox{-}scatter}
+\text{reduce-scatter}
 +
-\operatorname{all\mbox{-}gather}.
+\text{all-gather}.
 $$
 
 This is an equivalence in leading bandwidth volume; latency and overlap may differ.

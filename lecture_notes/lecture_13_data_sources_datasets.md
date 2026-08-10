@@ -173,7 +173,7 @@ The lecturer begins with a disclaimer that the legal situation is active and evo
 
 The lecture traces modern copyright to England's Statute of Anne in 1709 and, in the United States, to the Copyright Act of 1976. Copyright protects **original works of authorship fixed in a tangible medium of expression**. It protects expression rather than bare facts, ideas, or functional algorithms. A telephone directory without creative selection or arrangement is used to illustrate that merely collecting facts may be insufficient, although creative arrangement can itself matter.
 
-Protection arises automatically when a work is fixed; unlike a patent, it does not depend on an initial application. The lecturer says that United States registration is needed before suing for infringement and gives a registration fee of about $65. The lecture uses "75 years" as a simplified duration before a work enters the public domain, then points to Shakespeare, Beethoven, and much of Project Gutenberg as examples of material no longer under ordinary copyright restrictions.
+Protection arises automatically when a work is fixed; unlike a patent, it does not depend on an initial application. The lecturer says that United States registration is needed before suing for infringement and gives a registration fee of about \$65. The lecture uses "75 years" as a simplified duration before a work enters the public domain, then points to Shakespeare, Beethoven, and much of Project Gutenberg as examples of material no longer under ordinary copyright restrictions.
 
 Because most online expression is protected at a very low threshold, two broad routes for reuse are introduced:
 
@@ -240,7 +240,7 @@ The answers can differ for the same project. Dataset provenance, training use, a
 The lecture surveys several cases as a time-specific snapshot:
 
 - **The New York Times v. OpenAI**, filed in 2023, alleged unauthorized training and included prompted examples resembling Times articles. The lecturer describes the case as pending.
-- In litigation involving authors and **Anthropic**, a narrow ruling treated the particular training use of the plaintiffs' books as fair use. The lecturer stresses that this was not a general permission to pirate books. Pirated acquisition remained a separate problem. Anthropic had also purchased and scanned physical books, an acquisition route the lecturer says was treated more favorably, but doing so later did not erase the earlier piracy issue. The lecture reports a roughly $1.5 billion settlement, around $3,000 per book.
+- In litigation involving authors and **Anthropic**, a narrow ruling treated the particular training use of the plaintiffs' books as fair use. The lecturer stresses that this was not a general permission to pirate books. Pirated acquisition remained a separate problem. Anthropic had also purchased and scanned physical books, an acquisition route the lecturer says was treated more favorably, but doing so later did not erase the earlier piracy issue. The lecture reports a roughly \$1.5 billion settlement, around \$3,000 per book.
 - In litigation involving authors and **Meta**, a narrow summary judgment treated the training use at issue as fair use, while allegations concerning torrenting remained unresolved in the lecture's account.
 
 The lecturer's summary is deliberately limited: some specific instances of training had been found fair use, not model training in general; piracy was clearly a serious legal problem; and the area remained active and unsettled.
